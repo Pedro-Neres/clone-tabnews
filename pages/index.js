@@ -1,9 +1,15 @@
 function Home() {
   return (
-    <div >
+    <div>
       <h5>
-        <pre style={{ fontFamily: "monospace", fontSize: "16px", color: "#d81b60" }}>
-{`
+        <pre
+          style={{
+            fontFamily: "monospace",
+            fontSize: "16px",
+            color: "#d81b60",
+          }}
+        >
+          {`
        ******       ******
      **********   **********
    ************* *************
